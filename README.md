@@ -3,7 +3,7 @@ Web apps built in Go
 
 # Reference
 Build Web Application with Golang by astaxie
-Read it on [GitHub] [GitBook] 
+Read it on [GitHub] or [GitBook] 
 
 # License
 MIT
